@@ -1,0 +1,17 @@
+-- Technical knowledge requirements --
+1. Lang-chain basics
+2. Lang-graph basics
+3. Flask basics
+4. API basics (POST, GET, PUT, DELETE)
+5. HTML
+6. CSS
+
+-- Require python libraries --
+1. Flask
+2. flask_socketio
+3. langchain_core
+4. langchain
+5. typing
+6. typing_extensions
+7. os
+8. langgraph
