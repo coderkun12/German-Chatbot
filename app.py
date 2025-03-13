@@ -20,7 +20,7 @@ socketio = SocketIO(app, cors_allowed_origins="*")
 # ----- LangGraph Initialization -----
 
 # Setting up the GROQ API Key
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "YOUR_API_KEY_FOR_GROQ"
 
 # Initializing the Llama3 model with GROQ as provider
 model = init_chat_model("llama3-8b-8192", model_provider="groq")
